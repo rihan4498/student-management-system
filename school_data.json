@@ -1,0 +1,27 @@
+{
+    "students": [
+        {
+            "name": "riihan",
+            "age": "18",
+            "email": "rihan4498@gmail.com",
+            "roll_no": "104",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "uhei",
+            "age": "12",
+            "email": "lwdk@gmail.com",
+            "emp_id": "869",
+            "subject": "ieuofq"
+        },
+        {
+            "name": "amit tiwari",
+            "age": "77",
+            "email": "rihan4498@gmail.com",
+            "emp_id": "8717939",
+            "subject": "mechanical"
+        }
+    ]
+}
